@@ -35,8 +35,13 @@ Agentic customer messaging: a keyword in an Instagram comment triggers an automa
 
 **~40 Cloudflare Workers in production**, including an API gateway, an email operations pipeline, SMS/voice outreach services, and a secrets gateway designed so no API key ever enters an LLM context.
 
-**Five MCP servers, built from scratch**
-`cloudflare-deploy` (ship any project to a live URL from a prompt) · `app-store` (App Store Connect + RevenueCat: bundle IDs, IAP, subscriptions) · `admob` · `reel-transcriber` (hosted) · signalbot's disclosure connector.
+**Six MCP servers, built from scratch**
+`cloudflare-deploy` (ship any project to a live URL from a prompt) · `app-store` (App Store Connect + RevenueCat: bundle IDs, IAP, subscriptions) · `admob` · `play-store` · `reel-transcriber` (hosted) · signalbot's disclosure connector.
+
+**Eight custom Claude Code skills**, because the workflow is the product
+`outliers` (finds the videos overperforming a channel's own baseline) · `reel-teardown` (fact-checks a short-form video claim by claim) · `blog-post` (keyword discovery → written → published → sitemap → IndexNow) · `apk-audit` (unpack, decompile, map the backend) · `screenshot-studio` (App Store screenshots designed and exported at every Apple size) · plus mail, DNS, and outreach skills.
+
+Five scheduled automations run unattended on top of that — a cloud-cost watchdog, an ads health check, and an analytics pull among them.
 
 **Client work, same velocity** — a powersports dealer: live catalog, Shopify drop-ship pipeline with order scopes, and a full SEO foundation, in ten sessions.
 
