@@ -4,6 +4,8 @@ Self-taught full-stack engineer. I build and ship production software solo, with
 
 Mobile (Flutter), web (TypeScript / SvelteKit / Cloudflare Workers), Python, SQL. I own the whole line: backend, frontend, deploy, monitoring, and the iteration after.
 
+**[chrisjk.com](https://chrisjk.com)** — every app and link in one place · **[cannappy.org](https://cannappy.org)** — the studio these ship under
+
 ---
 
 ## What I shipped in the last 90 days
@@ -44,6 +46,7 @@ Agentic customer messaging: a keyword in an Instagram comment triggers an automa
 
 | | |
 |---|---|
+| [chrisjk.com](https://chrisjk.com) | Everything I've shipped, in one place |
 | [signalbot.cannappy.org](https://signalbot.cannappy.org) | Insider + Congress trading signals, with an MCP connector |
 | [Strain Guide](https://apps.apple.com/us/app/id1596314933) · [Grow Guide](https://apps.apple.com/us/app/id6637720578) | iOS + Android, live, actively shipping |
 | [freeply](https://github.com/chris-jk/freeply) | Instagram comment → DM automation, self-hostable |
